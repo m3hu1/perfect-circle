@@ -9,6 +9,7 @@ g++ -o run.out draw.cpp -framework ApplicationServices
 Make sure to use `-framework ApplicationServices` while compiling otherwise you'll get errors.
 
 ## Run
+Place your cursor in the middle of the white circle.
 ```
 ./run
 ```
