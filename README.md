@@ -4,7 +4,7 @@ Inspired from Michael Bill's perfect-circle exploit; Written in C++.
 
 ## Compiling
 ```
-gcc -o run.out draw.cpp -framework ApplicationServices
+g++ -o run.out draw.cpp -framework ApplicationServices
 ```
 Make sure to use `-framework ApplicationServices` while compiling otherwise you'll get errors.
 
